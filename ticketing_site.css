@@ -1,0 +1,70 @@
+strong{
+ color:#2493df;
+}
+
+footer{
+    color:#595959;
+    font-size:14px;
+    text-align: center;
+    margin-top:10px;
+}
+
+h1 {
+    font-size:20px;
+    letter-spacing:2px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+label{
+    font-weight:bold;
+    font-size:16px;
+}
+
+section{
+ padding:10px, 10px, 10p, 10px;
+ background-color:white;
+}
+
+body {
+background-color:#e0e0e0;
+}
+
+#buy {
+    background-color:#687373;
+    margin-top:10px;
+    color:#fcfcfc;
+    position:fixed;
+    right:10px;
+    box-sizing:border-box;
+}
+
+#transport {
+    list-style-type: square inside;
+    margin-left:30px;
+}
+
+td, th {
+border-collapse:collapse;
+  border: 1px solid black;
+  padding: 10px;
+  }
+  
+th{
+  background-color:#2493df;
+  color: white;
+ }
+
+input[type="number"] {
+    padding:2px;
+    text-align: center;
+    width:50px;
+}
+
+input[type="button"] {
+ background-color:#2493df;
+ color:white;
+ font-weight:bold;
+ font-size:16px;
+ border:none;
+}
